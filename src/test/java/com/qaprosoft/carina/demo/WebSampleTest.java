@@ -118,4 +118,10 @@ public class WebSampleTest implements IAbstractTest {
         softAssert.assertAll();
     }
 
+    @Test()
+    @MethodOwner(owner = "auto")
+    public void test() {
+
+    }
+
 }

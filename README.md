@@ -22,6 +22,6 @@ mvn clean eclipse:eclipse
 
 ### Run tests
 ```
-mvn clean test -Dsuite=api
+mvn clean test -Dsuite=souce-demo-suite
 ```
 
